@@ -1,0 +1,8 @@
+DateUtils==0.5.2
+distribute==0.6.28
+pylint==0.26.0
+python-dateutil==2.1
+pytz==2012j
+six==1.2.0
+vboxapi==1.0
+virtualenv==1.8.4
