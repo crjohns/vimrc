@@ -68,5 +68,4 @@ set runtimepath^=~/.vim/bundle/ctrlp.vim
 call pathogen#infect()
 
 
-"set tags+=~/projects/fos/tags
 "set tags+=~/.vim/tags
